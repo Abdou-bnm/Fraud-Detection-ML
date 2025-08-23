@@ -4,10 +4,7 @@
 
 **A Machine Learning approach to detect fraudulent credit card transactions using Random Forest Classifier**
 
-[![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://python.org)  
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Latest-orange.svg)](https://scikit-learn.org)  
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org)  
+[![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://python.org) [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Latest-orange.svg)](https://scikit-learn.org) [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org)
 
 </div>
 
@@ -206,7 +203,7 @@ This sample is small enough to be tracked in git and lets you run the notebooks 
 
 | Metric       | Score                          |
 |--------------|--------------------------------|
-| **Accuracy** | ~99.9%                         |
+| **Accuracy** | ~98.7%                         |
 | **Precision**| High precision for fraud cases |
 | **Recall**   | Excellent fraud capture rate   |
 | **F1-Score** | Balanced performance metric    |
@@ -244,21 +241,6 @@ The project includes comprehensive visualizations:
 - **Risk Mitigation**: Proactive fraud prevention  
 - **Customer Satisfaction**: Reduced false positives mean fewer legitimate transactions blocked  
 - **Real-time Detection**: Fast prediction capability for immediate action  
-
----
-
-## Author
-
-<div align="center">
-
-**Abderaouf-benamirouche**  
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdou-bnm)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-
-*Data Scientist & Machine Learning Engineer*  
-
-</div>
 
 ---
 
